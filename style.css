@@ -443,6 +443,12 @@ footer{
     margin: 1em 0;
 }
 
+.head-icon .bi{
+    font-size: 1.5em;
+}
+
+
+
 .foot-cards a{
     display: inline-block;
     margin-top: 2em;
